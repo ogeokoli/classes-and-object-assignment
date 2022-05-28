@@ -11,7 +11,7 @@ Bob = Student("Bob", int(26), ["FE","BE"],float(20.90))
 
 Bob.name = "Peter"
 Bob.age = int(34)
-Bob.tracks = ["FE", "BE", "GE"]
+Bob.tracks = ["FE", "BE", "UI/UX"]
 
 print('Student details:')
 print('The student\'s name is ', Bob.name)
